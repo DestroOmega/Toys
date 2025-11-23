@@ -1,0 +1,25 @@
+{
+  label="Stained Glass",
+  shapes={
+    -- row1
+    {0,0,0,4,4,1, texture="glass", tint=0xFF0000},
+    {4,0,0,8,4,1, texture="glass", tint=0xffffff},
+    {8,0,0,12,4,1, texture="glass", tint=0xff0000},
+    {12,0,0,16,4,1, texture="glass", tint=0xffffff},
+    -- row2
+    {0,4,0,4,8,1, texture="glass", tint=0xffffff},
+    {4,4,0,8,8,1, texture="glass", tint=0xff0000},
+    {8,4,0,12,8,1, texture="glass", tint=0xffffff},
+    {12,4,0,16,8,1, texture="glass", tint=0xff0000},
+    --row3
+    {0,8,0,4,12,1, texture="glass", tint=0xff0000},
+    {4,8,0,8,12,1, texture="glass", tint=0xffffff},
+    {8,8,0,12,12,1, texture="glass", tint=0xff0000},
+    {12,8,0,16,12,1, texture="glass", tint=0xffffff},
+    --row4
+    {0,12,0,4,16,1, texture="glass", tint=0xffffff},
+    {4,12,0,8,16,1, texture="glass", tint=0xff0000},
+    {8,12,0,12,16,1, texture="glass", tint=0xffffff},
+    {12,12,0,16,16,1, texture="glass", tint=0xff0000}
+  }
+}
