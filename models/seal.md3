@@ -1,0 +1,8 @@
+{	
+	label="Purity Seal",
+	tooltip="Ave Omnissiah",
+	shapes={
+		{6,10,14,10,14,16,texture="wool_colored_red"},
+		{6,2,15,10,10,16,texture="wool_colored_white"}
+}}
+
